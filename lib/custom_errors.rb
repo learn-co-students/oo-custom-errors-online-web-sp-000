@@ -12,9 +12,9 @@ class Person
 
 end
 
-beyonce = Person.new("Beyonce")
-beyonce.get_married("Jay-Z")
-puts beyonce.name
+yvonne = Person.new("Yvonne")
+yvonne.get_married("Nguyen")
+puts yvonne.name
 
 
 
