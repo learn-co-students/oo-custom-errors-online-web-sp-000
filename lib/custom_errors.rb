@@ -9,6 +9,9 @@ class Person
     self.partner = person
     person.partner = self
   end
+  
+  def il
+  end
 
 end
 
