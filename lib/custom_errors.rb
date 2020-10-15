@@ -16,7 +16,7 @@ beyonce = Person.new("Beyonce")
 beyonce.get_married("Jay-Z")
 puts beyonce.name
 
-# This is a test to see if I can get this lab to submit and clear the yellow 'in-progess' icon
+# Let's see if it will submit!
 
 
 
