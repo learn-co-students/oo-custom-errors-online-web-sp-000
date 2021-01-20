@@ -17,5 +17,3 @@ beyonce.get_married("Jay-Z")
 puts beyonce.name
 
 
-
-
