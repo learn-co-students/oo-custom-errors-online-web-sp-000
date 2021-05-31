@@ -16,6 +16,4 @@ beyonce = Person.new("Beyonce")
 beyonce.get_married("Jay-Z")
 puts beyonce.name
 
-
-
-
+x = "idk why this didnt submit I finished this months ago"
