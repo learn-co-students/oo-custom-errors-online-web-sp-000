@@ -34,7 +34,7 @@ we'll practice building simple custom errors.
 **This is a code along.** There are no tests to pass, but you must [manually
 fork and clone the
 repo](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) in
-order to code along **if** you are not using the IDE. 
+order to code along **if** you are not using the IDE.
 
 ## Before we begin, a note on inheritance
 
@@ -98,11 +98,11 @@ In `custom_errors.rb`, we have the following code:
 ```ruby
 class Person
   attr_accessor :name, :partner
-  
+
   def initialize(name)
     @name = name
   end
-  
+
   def get_married(person)
     self.partner = person
     person.partner = self
